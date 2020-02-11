@@ -1,4 +1,4 @@
-Django==1.5.7
+Django==1.11.28
 django-admin-bootstrapped==2.5.5
 djangorestframework==3.2.2
 gunicorn==19.3.0
